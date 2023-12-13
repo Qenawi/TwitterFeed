@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Bob Johnson",
+    "time": "7h",
+    "screenName": "android_879",
+    "tweet": "Just had a great day at work!",
+    "mediaRes": "",
+    "retweetCount": 23,
+    "favoriteCount": 65
+  },
+  {
+    "name": "Alice Smith",
+    "time": "15h",
+    "screenName": "user_342",
+    "tweet": "Jetpack Compose makes UI development fun!",
+    "mediaRes": "",
+    "retweetCount": 47,
+    "favoriteCount": 81
+  },
+  {
+    "name": "Michael Davis",
+    "time": "18h",
+    "screenName": "dev_512",
+    "tweet": "Exploring Jetpack Compose for UI development!",
+    "mediaRes": "",
+    "retweetCount": 82,
+    "favoriteCount": 29
+  },
+  {
+    "name": "John Doe",
+    "time": "10h",
+    "screenName": "code_654",
+    "tweet": "Feeling excited about the weekend! 🎉",
+    "mediaRes": "",
+    "retweetCount": 61,
+    "favoriteCount": 93
+  },
+  {
+    "name": "Emma Brown",
+    "time": "6h",
+    "screenName": "android_124",
+    "tweet": "This is a sample tweet. #JetpackCompose",
+    "mediaRes": "",
+    "retweetCount": 94,
+    "favoriteCount": 14
+  },
+  {
+    "name": "Bob Johnson",
+    "time": "19h",
+    "screenName": "code_378",
+    "tweet": "Just had a great day at work!",
+    "mediaRes": "",
+    "retweetCount": 33,
+    "favoriteCount": 76
+  },
+  {
+    "name": "Alice Smith",
+    "time": "3h",
+    "screenName": "dev_784",
+    "tweet": "Jetpack Compose makes UI development fun!",
+    "mediaRes": "",
+    "retweetCount": 12,
+    "favoriteCount": 45
+  },
+  {
+    "name": "Michael Davis",
+    "time": "14h",
+    "screenName": "user_567",
+    "tweet": "Exploring Jetpack Compose for UI development!",
+    "mediaRes": "",
+    "retweetCount": 56,
+    "favoriteCount": 89
+  },
+  {
+    "name": "John Doe",
+    "time": "9h",
+    "screenName": "android_943",
+    "tweet": "Feeling excited about the weekend! 🎉",
+    "mediaRes": "",
+    "retweetCount": 18,
+    "favoriteCount": 72
+  },
+  {
+    "name": "Emma Brown",
+    "time": "12h",
+    "screenName": "code_234",
+    "tweet": "This is a sample tweet. #JetpackCompose",
+    "mediaRes": "",
+    "retweetCount": 42,
+    "favoriteCount": 58
+  },
+  {
+    "name": "Bob Johnson",
+    "time": "5h",
+    "screenName": "dev_456",
+    "tweet": "Just had a great day at work!",
+    "mediaRes": "",
+    "retweetCount": 75,
+    "favoriteCount": 37
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose makes UI development fun!",
+    "mediaRes": "",
+    "retweetCount": 28,
+    "favoriteCount": 69
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to me all year.",
+    "mediaRes": "",
+    "retweetCount": 234,
+    "favoriteCount": 890
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm so impressed with Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 630,
+    "favoriteCount": 760
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to me all year.",
+    "mediaRes": "",
+    "retweetCount": 980,
+    "favoriteCount": 371
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm so excited about the future of Android development!",
+    "mediaRes": "",
+    "retweetCount": 945,
+    "favoriteCount": 327
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to Android development in years.",
+    "mediaRes": "",
+    "retweetCount": 631,
+    "favoriteCount": 384
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm so excited about the future of Android development!",
+    "mediaRes": "",
+    "retweetCount": 877,
+    "favoriteCount": 309
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the future of UI development.",
+    "mediaRes": "",
+    "retweetCount": 985,
+    "favoriteCount": 617
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to Android development in years.",
+    "mediaRes": "",
+    "retweetCount": 646,
+    "favoriteCount": 609
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm so impressed with Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 541,
+    "favoriteCount": 13
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the future of UI development.",
+    "mediaRes": "",
+    "retweetCount": 779,
+    "favoriteCount": 500
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm having so much fun learning Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 246,
+    "favoriteCount": 170
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to me all year.",
+    "mediaRes": "",
+    "retweetCount": 213,
+    "favoriteCount": 353
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to Android development in years.",
+    "mediaRes": "",
+    "retweetCount": 167,
+    "favoriteCount": 903
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to Android development in years.",
+    "mediaRes": "",
+    "retweetCount": 773,
+    "favoriteCount": 499
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to me all year.",
+    "mediaRes": "",
+    "retweetCount": 216,
+    "favoriteCount": 384
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm so impressed with Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 292,
+    "favoriteCount": 791
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm having so much fun learning Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 533,
+    "favoriteCount": 643
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm having so much fun learning Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 715,
+    "favoriteCount": 410
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "Jetpack Compose is the best thing that's happened to Android development in years.",
+    "mediaRes": "",
+    "retweetCount": 772,
+    "favoriteCount": 458
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm having so much fun learning Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 104,
+    "favoriteCount": 531
+  },
+  {
+    "name": "Alice Smith",
+    "time": "23h",
+    "screenName": "user_789",
+    "tweet": "I'm having so much fun learning Jetpack Compose.",
+    "mediaRes": "",
+    "retweetCount": 999,
+    "favoriteCount": 205
+  }
+]
+
+
+
+
